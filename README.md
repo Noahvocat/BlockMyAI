@@ -4,4 +4,4 @@ This little piece of software will allow you to block Snapchat's MyAI simply by 
 this software is entierly open source, feel free to edit the code!
 
 # Status
-### In developement (I would say 45% of the code is done)
+### Abandonned
